@@ -1,0 +1,804 @@
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=Model.Value.RefValue@67424e82}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=Model.Value.RefValue@67424e82}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0int}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0int}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=30}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [20, 35]
+File Table={}
+Heap ={0=30}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=30}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [20, 35]
+File Table={}
+Heap ={0=30}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [Ref(int) v;new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), Ref(int) v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [new HeapAllocStmn(v,20);print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5), new HeapAllocStmn(v,20)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v));HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5), print(ReadHeap(v))]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [HeapWritingStatement(v,30);print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5), HeapWritingStatement(v,30)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=20}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(ReadHeap(v) + 5)]
+Symbol Table = {v=0}
+Print List = [20]
+File Table={}
+Heap ={0=30}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [20, 35]
+File Table={}
+Heap ={0=30}
+___________________________________

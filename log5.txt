@@ -1,0 +1,1266 @@
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(null) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(null) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int v;v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v), int v]
+Symbol Table = {}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [v=4;(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v), v=4]
+Symbol Table = {v=0}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [(while(v>0) print(v);v=v - 1);print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=4}
+Print List = []
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=4}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=3}
+Print List = [4]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=3}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=2}
+Print List = [4, 3]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=2}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), print(v);v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1, print(v)]
+Symbol Table = {v=1}
+Print List = [4, 3, 2]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1), v=v - 1]
+Symbol Table = {v=1}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v), (while(v>0) print(v);v=v - 1)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(v)]
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1]
+File Table={}
+Heap ={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {v=0}
+Print List = [4, 3, 2, 1, 0]
+File Table={}
+Heap ={}
+___________________________________

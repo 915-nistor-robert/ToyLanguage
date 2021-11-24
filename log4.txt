@@ -1,0 +1,126 @@
+___________________________________
+ProgramState:
+Execution Stack = [string varf;varf=test.in;openRFile(varf);int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [varf=test.in;openRFile(varf);int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf), string varf]
+Symbol Table = {}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [varf=test.in;openRFile(varf);int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [openRFile(varf);int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf), varf=test.in]
+Symbol Table = {varf=}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [openRFile(varf);int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf), openRFile(varf)]
+Symbol Table = {varf=test.in}
+Print List = []
+File Table={}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [int varc;ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf), int varc]
+Symbol Table = {varf=test.in}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [ReadFile{varf,varc'};print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in, varc=0}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf), ReadFile{varf,varc'}]
+Symbol Table = {varf=test.in, varc=0}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(varc);ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in, varc=15}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [ReadFile{varf,varc'};print(varc);CloseRFile(varf), print(varc)]
+Symbol Table = {varf=test.in, varc=15}
+Print List = []
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [ReadFile{varf,varc'};print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in, varc=15}
+Print List = [15]
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(varc);CloseRFile(varf), ReadFile{varf,varc'}]
+Symbol Table = {varf=test.in, varc=15}
+Print List = [15]
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [print(varc);CloseRFile(varf)]
+Symbol Table = {varf=test.in, varc=50}
+Print List = [15]
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [CloseRFile(varf), print(varc)]
+Symbol Table = {varf=test.in, varc=50}
+Print List = [15]
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = [CloseRFile(varf)]
+Symbol Table = {varf=test.in, varc=50}
+Print List = [15, 50]
+File Table={test.in=java.io.BufferedReader@506c589e}
+___________________________________
+___________________________________
+ProgramState:
+Execution Stack = []
+Symbol Table = {varf=test.in, varc=50}
+Print List = [15, 50]
+File Table={}
+___________________________________

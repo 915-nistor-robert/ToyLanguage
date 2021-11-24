@@ -1,0 +1,54 @@
+package Model.Statements;
+
+import Model.ADT.FileTable;
+import Model.ADT.Heap;
+import Model.ADT.IDictionary;
+import Model.ADT.IStack;
+import Model.Expresions.Expression;
+import Model.ProgramState;
+import Model.Types.StringType;
+import Model.Value.IValue;
+import Model.Value.StringValue;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class CloseRFile implements IStatement{
+    Expression expression;
+
+    public CloseRFile(Expression expression){this.expression = expression;}
+
+
+    @Override
+    public ProgramState execute(ProgramState state) throws Exception {
+        IStack<IStatement> executionStack = state.getExecutionStack();
+        IDictionary<String, IValue> symbolTable = state.getSymbolTable();
+        Heap<IValue> heap = state.getHeap();
+        IValue expressionValue = this.expression.eval(symbolTable,heap);
+        FileTable fileTable = state.getFileTable();
+
+        StringType str = new StringType();
+
+        if (str.getClass().equals(expressionValue.getType().getClass())){
+            StringValue expressionValue_string = (StringValue) this.expression.eval(symbolTable,heap);
+            String filePath = expressionValue_string.getValue().toString();
+            if (fileTable.isDefined(filePath)){
+                throw new Exception("This value already exists");
+            }
+            StringValue filePath_string = new StringValue(filePath);
+            BufferedReader reader = fileTable.getReader(filePath_string);
+//            BufferedReader reader = (BufferedReader)fileTable.lookup(filePath);
+            reader.close();
+            fileTable.remove(filePath);
+        }
+        else {
+            throw new Exception("Not a string for file reading");
+        }
+        System.out.println("file removed");
+        return state;
+    }
+
+    public String toString(){
+        return "CloseRFile(" + this.expression.toString() + ")";
+    }
+}
