@@ -41,7 +41,6 @@ public class HeapWritingStatement implements IStatement{
         }
         heap.update(address, expressionValue);
         state.setHeap(heap);
-        //TODO: why is set heap not necessary
         return state;
 
     }

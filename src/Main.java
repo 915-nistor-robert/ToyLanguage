@@ -122,6 +122,24 @@ public class Main {
         controller6.addProgram(programState6);
 
 
+        StackADT<IStatement> executionStack9 = new StackADT<>();
+        Dictionary<String, IValue> symbolTable9 = new Dictionary<>();
+        List<IValue> output9 = new List<>();
+        FileTable fileTable9 = new FileTable();
+        Heap<IValue> heap9 = new Heap<>();
+        IStatement ex9 = new CompoundStatement(new VarDeclarationStatement("v", new RefType(new IntType())),
+                new CompoundStatement(new HeapAllocationStatement("v", new ValueExpression(new IntValue(20))),
+                        new CompoundStatement(new VarDeclarationStatement("a", new RefType(new RefType(new IntType()))),
+                                new CompoundStatement(new HeapAllocationStatement("a", new VarExpression("v")),
+                                        new CompoundStatement(new HeapAllocationStatement("v", new ValueExpression(new IntValue(30))),
+                                                new PrintStatement(new ReadHeapExpression(new ReadHeapExpression(new VarExpression("a")))))))));
+        ProgramState programState9 = new ProgramState(executionStack9, symbolTable9, output9, ex9, fileTable9, heap9);
+        Repo repo9 = new Repo("D:\\Java projects\\A4\\log6.txt");
+        Controller controller9 = new Controller(repo9);
+        controller9.addProgram(programState9);
+
+
+
         TextMenu menu = new TextMenu();
         menu.addCommand(new ExitCommand("0", "exit"));
         menu.addCommand(new RunCommand("1", ex1.toString(), controller1));
@@ -130,6 +148,7 @@ public class Main {
         menu.addCommand(new RunCommand("4", ex4.toString(), controller4));
         menu.addCommand(new RunCommand("5", ex5.toString(),controller5));
         menu.addCommand(new RunCommand("6", ex6.toString(),controller6));
+        menu.addCommand(new RunCommand("9", ex9.toString(),controller9));
         menu.show();
 
     }

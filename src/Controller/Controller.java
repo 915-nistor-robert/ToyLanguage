@@ -27,15 +27,15 @@ public class Controller {
         this.repo.addProgram(program);
     }
 
-    public ProgramState oneStep(ProgramState state) throws Exception {
-        StackADT<IStatement> stack = state.getExecutionStack();
-        if (stack.isEmpty()) {
-            throw new Exception("Execution Stack is empty");
-        } else {
-            IStatement currentStatement = stack.pop();
-            return currentStatement.execute(state);
-        }
-    }
+//    public ProgramState oneStep(ProgramState state) throws Exception {
+//        StackADT<IStatement> stack = state.getExecutionStack();
+//        if (stack.isEmpty()) {
+//            throw new Exception("Execution Stack is empty");
+//        } else {
+//            IStatement currentStatement = stack.pop();
+//            return currentStatement.execute(state);
+//        }
+//    }
 
 
     public void garbageCollector(ProgramState state) {
@@ -71,7 +71,8 @@ public class Controller {
         repo.logProgramStateExec();
         System.out.println(program.toString());
         while (!program.getExecutionStack().isEmpty()) {
-            oneStep(program);
+//            oneStep(program);
+            program.oneStep();
             repo.logProgramStateExec();
             garbageCollector(program);
             System.out.println(program.toString());

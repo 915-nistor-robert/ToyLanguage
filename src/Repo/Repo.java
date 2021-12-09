@@ -23,12 +23,22 @@ public class Repo implements IRepo {
     }
 
 
+//    @Override
+//    public ProgramState getCurrentProgram() {
+//        if (this.repo.size() == 0) {
+//            throw new RuntimeException("");
+//        }
+//        return this.repo.get(0);
+//    }
+
     @Override
-    public ProgramState getCurrentProgram() {
-        if (this.repo.size() == 0) {
-            throw new RuntimeException("");
-        }
-        return this.repo.get(0);
+    public List<ProgramState> getProgramList() {
+        return repo;
+    }
+
+    @Override
+    public void setProgramList(List<ProgramState> list) {
+        repo = list;
     }
 
     @Override

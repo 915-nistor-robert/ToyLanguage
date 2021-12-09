@@ -15,26 +15,23 @@ public class ProgramState {
     IStatement originalProgram;
     FileTable fileTable;
     Heap<IValue> heap;
+    static int id;
 
-    public ProgramState(StackADT<IStatement> executionStack, Dictionary<String, IValue> symbolTable, List<IValue> printList, IStatement originalProgram, FileTable FileTable, Heap<IValue> heap) {
+    public ProgramState(StackADT<IStatement> executionStack, Dictionary<String, IValue> symbolTable, List<IValue> printList, IStatement originalProgram, FileTable FileTable, Heap<IValue> heap, int id) {
         this.executionStack = executionStack;
         this.symbolTable = symbolTable;
         this.printList = printList;
         this.originalProgram = originalProgram;
         this.fileTable = FileTable;
         this.heap = heap;
+        this.id = id;
     }
 
 
     @Override
     public String toString() {
-//        return "ProgramState{" +
-//                "executionStack=" + executionStack +
-//                ", symbolTable=" + symbolTable +
-//                ", printList=" + printList +
-//                '}';
         return "___________________________________\n" +
-                "ProgramState:\n"+"Execution Stack = "+executionStack+"\nSymbol Table = "+ symbolTable+"\nPrint List = "+printList+ "\nFile Table="+fileTable +"\nHeap ="+heap +"\n___________________________________";
+                "ProgramState:\n"+"ID = "+ id  +"Execution Stack = "+executionStack+"\nSymbol Table = "+ symbolTable+"\nPrint List = "+printList+ "\nFile Table="+fileTable +"\nHeap ="+heap +"\n___________________________________";
     }
 
     public List<IValue> getPrintList() {
@@ -77,5 +74,16 @@ public class ProgramState {
 
     public void setOriginalProgram(IStatement originalProgram) {
         this.originalProgram = originalProgram;
+    }
+
+    public boolean isNotCompleted(){
+        return !this.executionStack.isEmpty();
+    }
+
+    public ProgramState oneStep() throws Exception{
+        if (executionStack.isEmpty())
+            throw new Exception("ProgramState stack is empty!");
+        IStatement currentStatement = executionStack.pop();
+        return currentStatement.execute(this);
     }
 }
